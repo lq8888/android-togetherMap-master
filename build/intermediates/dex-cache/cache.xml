@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_bc2d1c3b2491d953dee701df99a59ea54609da6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_892b946043bee16f7fcafb12a5642f29a339fe43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_1726394862060f57d5474d8ac6232d10c201d6fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_66d3bed4271168545550ec5774f9ac5660d3ff35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_b4883aa53b7dcbdb70c61bdc2cffd9f6716909aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8075bc96ad7a58c1be8a955c368e8656a900ec90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0e0eaa84351cb66a4c89917f1862f6da58bcf4b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_37fe2f821b14644f93c5cddaca0e27586002aa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_6537e5953aa0420083868865fa9ed6400be4f115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9e976041be31a722279ecaf264fb64a7ab2e902b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_a840eb573bf9cf9f0324772b071818c6c6b2dae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7cef442a745c2615c64b2d6bd10af6f0de208e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_4e3ad14e2ce432fba58323a4f65eae4454b020d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_bdf0cc70ca1d666436a3a95a3b107078c4be3c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\libs\AMap_3DMap_V4.0.1_20160923.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c2f0300aa931afaee1392e8bcac9fa878995cbd">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\AMap_3DMap_V4.0.1_20160923_c612e71c3e761d064ba387ee3fca93a702da2133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\admin\Desktop\newthree\android-togetherMap-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_7b9174b35ad2390c30fd25e995e1ae906967aaba.jar" />
+    </item>
+
+</items>
